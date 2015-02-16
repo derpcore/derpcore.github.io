@@ -3,7 +3,7 @@ title: Derp Core Blog
 email: your-email@domain.com
 description: De-derping the world, one derp at a time.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://github.io" # the base hostname & protocol for your site
+url: "https://blog.derpcore.io" # the base hostname & protocol for your site
 github_username:  derpcore
 
 # Build settings
